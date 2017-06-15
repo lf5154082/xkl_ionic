@@ -1,1 +1,1 @@
-新客来ionic版
+这是移动端 新客来ionic版webApp
